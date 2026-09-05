@@ -286,5 +286,3 @@ The main goals of the project were to demonstrate practical experience with:
 * PCB routing
 * Custom footprint creation
 * Custom 3D model creation
-
-See the repository license for terms regarding reuse of the hardware design and associated files.
