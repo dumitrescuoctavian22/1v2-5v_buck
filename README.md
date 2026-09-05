@@ -140,9 +140,7 @@ The output voltage is selected using a rotary switch connected to the feedback r
 
 Bottom feedback resistor:
 
-```
-RFBB = 10.2 kOhm
-```
+* RFBB = 10.2 kOhm
 
 Rotary switch positions:
 
@@ -258,10 +256,8 @@ The PCB includes four mounting holes.
 
 Mounting-hole geometry:
 
-```
-Outer diameter: 2.0 mm
-Hole diameter: 1.5 mm
-```
+* Outer diameter: 2.0 mm
+* Hole diameter: 1.5 mm
 
 The mounting holes provide mechanical mounting points for PCB standoffs or suitable hardware.
 
@@ -276,10 +272,8 @@ The main goals of the project were to demonstrate practical experience with:
 * Power component selection
 * Inductor selection
 * Capacitor selection
-* High-current PCB routing
 * Switching power supply layout
 * Ground-plane design
-* Thermal considerations
 * Custom KiCad footprint creation
 * Custom 3D model creation
 * Mechanical PCB design
@@ -292,35 +286,5 @@ The main goals of the project were to demonstrate practical experience with:
 * PCB routing
 * Custom footprint creation
 * Custom 3D model creation
-
-## PROJECT STATUS
-
-Schematic:
-Complete
-
-PCB layout:
-Complete
-
-Custom rotary-switch footprint:
-Complete
-
-Custom rotary-switch 3D model:
-Complete
-
-Mounting holes:
-Complete
-
-PCB design:
-Complete
-
-## REFERENCES
-
-TI TPS62933P:
-https://www.ti.com/product/TPS62933P
-
-TDK VLS6045EX-6R8M:
-https://product.tdk.com/
-
-## LICENSE
 
 See the repository license for terms regarding reuse of the hardware design and associated files.
